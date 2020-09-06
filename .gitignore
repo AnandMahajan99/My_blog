@@ -1,0 +1,4 @@
+*.sqlite3
+blog/migrations/
+blog/__init__.py
+my_blog/__init__.py
